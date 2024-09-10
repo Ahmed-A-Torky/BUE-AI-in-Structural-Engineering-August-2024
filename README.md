@@ -1,5 +1,5 @@
 # BUE-AI-in-Structural-Engineering-August-2024
-![Welcome to the AI applications in Structural Engineering repository](https://github.com//Ahmed-A-Torky/BUE-AI-in-Structural-Engineering-August-2024/main/CourseFlyer.jpg?raw=true)
+![Welcome to the AI applications in Structural Engineering repository](https://github.com//Ahmed-A-Torky/BUE-AI-in-Structural-Engineering-August-2024/blob/main/CourseFlyer.jpg?raw=true)
 
 # Welcome to the  AI applications in Structural Engineering repository! 
 
