@@ -1,9 +1,9 @@
-# BUE-AI-in-Structural-Engineering-August-2024
+# BUE-AI-in-Structural-Engineering-September-2024
 ![Welcome to the AI applications in Structural Engineering repository](https://github.com//Ahmed-A-Torky/BUE-AI-in-Structural-Engineering-August-2024/blob/main/CourseFlyer.jpg?raw=true)
 
-# Welcome to the  AI applications in Structural Engineering repository! 
+# Welcome to the  AI applications in the Structural Engineering repository! 
 
-The training program will start September 2024!
+The training program will start in September 2024!
 
 Description:
 Welcome to the Structural Engineering AI Training Course, a comprehensive program designed to equip structural engineers with the necessary skills in Artificial Intelligence (AI), Programming in Python, and Optimization of Structural Design. This course is specifically tailored to bridge the gap between traditional engineering practices and emerging technologies, empowering professionals to leverage AI and programming techniques for enhanced efficiency and accuracy in their work.
@@ -11,7 +11,7 @@ Welcome to the Structural Engineering AI Training Course, a comprehensive progra
 Course Highlights:
 1. Introduction to AI in Structural Engineering:
    - Understand the fundamentals of AI and its applications in the field of structural engineering.
-   - Explore real-world case studies showcasing successful implementation of AI techniques.
+   - Explore real-world case studies showcasing the successful implementation of AI techniques.
 
 2. Python Programming for Structural Engineers:
    - Learn Python programming from scratch, with a focus on practical applications within structural engineering.
@@ -32,9 +32,9 @@ Key Features:
 - Access to curated resources including reference materials, code samples, datasets, and additional learning materials.
 
 Who Should Enroll?
-This course is designed for practicing or aspiring structural engineers seeking to enhance their skillset by integrating AI technologies into their workflow. It is also suitable for students or researchers interested in exploring the intersection of artificial intelligence and structural engineering.
+This course is designed for practicing or aspiring structural engineers seeking to enhance their skills by integrating AI technologies into their workflow. It is also suitable for students or researchers interested in exploring the intersection of artificial intelligence and structural engineering.
 
-Join us on this transformative journey to unlock the potential of AI, Python programming, and optimization techniques in structural engineering. Gain a competitive edge and stay ahead in the rapidly evolving field of engineering. Enroll now and embark on a path towards becoming an AI-driven structural engineering professional!
+Join us on this transformative journey to unlock the potential of AI, Python programming, and optimization techniques in structural engineering. Gain a competitive edge and stay ahead in the rapidly evolving field of engineering. Enroll now and embark on a path toward becoming an AI-driven structural engineering professional!
 
 Note: This repository will be updated daily during the training days.
 
